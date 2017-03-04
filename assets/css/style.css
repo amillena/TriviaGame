@@ -1,0 +1,71 @@
+
+body { 
+  background: lightgrey;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+}  
+p {
+  /*font-family: 'Josefin Sans', sans-serif;*/
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-size: 18px;
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+input[type=radio] {
+
+    height:20px; 
+    width:20px;
+
+}
+#banner{
+  text-align: center;
+}
+#label{
+  text-align: center;
+}
+
+#test{ 
+  border:#000 1px solid; 
+  padding:10px 40px 40px 40px; 
+}
+
+
+#display {
+  text-align: center;
+  font-size: 50px;
+  font-family: monospace;
+  background: black;
+  color: green;
+}
+
+.container {
+  margin: 50px auto 0;
+  width: 500px;
+}
+
+#buttons {
+  text-align: center;
+}
+
+
+
+
+
